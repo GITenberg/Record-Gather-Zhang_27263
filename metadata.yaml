@@ -1,0 +1,38 @@
+_repo: Record-Gather-Zhang_27263
+_version: 0.1.0
+alternative_title: Zhang Zai ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhang, Zai
+    aliases:
+    - 张载
+    - 橫渠先生
+    - Zhang, Hengqu
+    - Hengquxiansheng
+    - Chang, Tsai
+    - Chang, Tzu-hou
+    - 張橫渠
+    - 張載
+    - 張子厚
+    - Zhang, Zihou
+    birthdate: 1020
+    deathdate: 1077
+    gutenberg_agent_id: '32580'
+    url: http://www.gutenberg.org/2009/agents/32580
+description: ''
+gutenberg_issued: '2008-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27263'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Chinese'
+title: 張載集
+url: http://www.gutenberg.org/ebooks/27263
